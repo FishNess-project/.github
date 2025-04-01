@@ -18,7 +18,8 @@ The organisation holds the following repertories:
 * [Dynamic Energy Budget theory for metabolic organisation](https://www.bio.vu.nl/thb/research/bib/Kooy2010.html#:~:text=Dynamic%20Energy%20Budget%20(DEB)%20theory,microorganisms%2C%20animals%2C%20plants)
 * [TMB](https://kaskr.github.io/adcomp/Introduction.html)
 
-## Related publications
+## References
+Crestel, D., Vergnet, A., Clota, F., Blanc, M.O., Navarro, T., Lallement, S., Moulard, F., McKenzie, D., Allal, F., Vandeputte, M., 2025. Do European Seabass Larvae Grow Better in Their Natural Temperature Regime? Evolutionary Applications, Volume 18, Issue 2, e70083. [doi:10.1111/eva.70083](https://onlinelibrary.wiley.com/doi/10.1111/eva.70083)
 
 
 <img align="right" src="https://umr-marbec.fr/wp-content/uploads/2022/01/logo_FishNess-1_rvb500dpi.png.webp" width="200"  style="height: 75px !important;"> 
